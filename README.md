@@ -19,3 +19,12 @@ If you find any issues or have suggestions for improvements, please feel free to
 
 ## Contact
 For any inquiries or further information, please contact harihshramm114@gmail.com.
+
+## Screenshots
+<div style="display:flex; gap:10px; flex-wrap: wrap;">
+  <img src="assets/1.jpg" alt="Home Screen" width="400"/>
+  <img src="assets/2.jpg" alt="Home Screen" width="400"/>
+  <img src="assets/3.jpg" alt="Home Screen" width="400"/>
+  <img src="assets/4.jpg" alt="Home Screen" width="400"/>
+</div>
+
